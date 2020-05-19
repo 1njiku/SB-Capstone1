@@ -1,17 +1,7 @@
-<html>
-<head>
-<style>
-h2 {text-align: center;}
-p {text-align: left;}
-div {text-align: center;}
-</style>
-</head>
-
-
 # SB-Capstone1
 
 <h2> Introduction </h2>
-<p> The prevailing image of a migrant is that of a low-skilled refugee, but very little attention is paid to footballers who play for countries other than those of their birth. </p> 
+The prevailing image of a migrant is that of a low-skilled refugee, but very little attention is paid to footballers who play for countries other than those of their birth.  I therefore intend to evaluate the hypothesis that having foreign-born players on a team leads to better FIFA rankings in men’s football. I hope to provide more clarity on the boon to a host nation of having more open migration policies, with an emphasis on the social cohesion and cultural benefit of having successful men’s national football teams.
 
 <h2> Data Sources </h2>
 <li> List of FIFA world rankings of men’s national football teams from 1992 to 2019.
@@ -26,4 +16,4 @@ div {text-align: center;}
 <li>https://www.kaggle.com/cashncarry/fifaworldranking</li>
 <li>https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TE9KWG</li>
 
-</html>
+
