@@ -10,7 +10,7 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
 <h2> Repository Navigation </h2>
 <ol>
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Capstone%231PP-Foreign%20Footballers.pdf'>Project Proposal</a></li>
-  <li>Data Wrangling</li>
+  <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Notebook%201-%20Data%20Wrangling.ipynb'>Data Wrangling</a></li>
   <li>EDA and Inferential Statistics</li>
   <li>Milestone Report</li>
   <li>Machine Learning</li>
