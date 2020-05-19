@@ -8,7 +8,15 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
 .xlsx file obtained from Google Datasets: 12 columns, about 10,000 rows.</li>
 
 <h2> Repository Navigation </h2>
-
+<ol>
+  <li>Project Proposal</li>
+  <li>Data Wrangling</li>
+  <li>Exploratory Data Analysis</li>
+  <li>Inferential Statistics</li>
+  <li>Milestone Report</li>
+  <li>Machine Learning</li>
+  <li>Final Report</li>
+</ol>
 <h2> Results </h2>
 
 
