@@ -14,7 +14,7 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Notebook%202-%20EDA%20%26%20Inferential%20Statistics.ipynb'>EDA and Inferential Statistics</a></li>
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Capstone1%20Milestone%20Report%20-%20Google%20Docs.pdf'>Milestone Report</a></li>
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Notebook%203%20-%20Machine%20Learning.ipynb'>Machine Learning</a></li>
-  <li>Final Report</li>
+  <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Capstone1-consolidated%20report.pdf'>Final Report</a></li>
 </ol>
 <h2> Results </h2>
 
