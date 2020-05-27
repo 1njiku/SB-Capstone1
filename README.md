@@ -33,7 +33,7 @@ The classifier scores were similarly modest. The majority of the classifiers had
 <li> Feature engineering to improve matrix of features</li>
 <li> Time-series exploration on a bolstered datetime column</li>
 
-<h2> References </h2>
+<h2> Data Sources </h2>
 <li>https://www.kaggle.com/cashncarry/fifaworldranking</li>
 <li>https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TE9KWG</li>
 
