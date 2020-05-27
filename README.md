@@ -16,8 +16,18 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Notebook%203%20-%20Machine%20Learning.ipynb'>Machine Learning</a></li>
   <li><a href='https://github.com/1njiku/SB-Capstone1/blob/master/Capstone1-consolidated%20report.pdf'>Final Report</a></li>
 </ol>
+
 <h2> Results </h2>
 
+Running the chi-square test of independence suggested indeed that the two might be dependent. This might have been influenced by an inflated data set that arose from the merging process of two data frames. Nevertheless, I decided to train several classifier models to test my hypothesis, namely: Decision Tree, Random Forest and Gradient Boosting Classifier.
+All three classifiers performed poorly with a weighted average F1 score of around 6% with the tuned Random Forest pulling in a value of 4%. This reinforced the need to engineer a better dataset with more features and less bloat.
+i
+The classifier scores were similarly modest. The majority of the classifiers had a score hovering at around 8%; the Gradient Boosting Classifier registering the highest score at 8.5%, while the tuned Decision Tree came in last with a score of 6%
+i
+
+<h2>Future Scope </h2>
+1. Feature engineering to improve matrix of features
+2. Time-series exploration on a bolstered datetime column
 
 <h2> References </h2>
 <li>https://www.kaggle.com/cashncarry/fifaworldranking</li>
