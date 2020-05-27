@@ -19,7 +19,7 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
 
 <h2> Results </h2>
 
-Running the chi-square test of independence suggested indeed that the 'rank' column might be dependent on the 'Foreign-born' column. This might have been influenced by an inflated data set that arose from the merging process of two data frames. Nevertheless, I decided to train several classifier models to test my hypothesis, namely: Decision Tree, Random Forest and Gradient Boosting Classifier.
+Running the chi-square test of independence suggested indeed that the 'rank' column might be dependent on the 'Foreign-born' column. This might have been influenced by an inflated data set that arose from the merging process of two data frames. Nevertheless, I decided to train several classifier models to test my hypothesis after deciding to approach the problem from a multi-class classification perspective. These were: Decision Tree, Random Forest and Gradient Boosting Classifier. 
 
 All three classifiers performed poorly with a weighted average F1 score of around 6% with the tuned Random Forest pulling in a value of 4%. This reinforced the need to engineer a better dataset with more features and less bloat.
 
