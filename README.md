@@ -19,7 +19,8 @@ The prevailing image of a migrant is that of a low-skilled refugee, but very lit
 
 <h2> Results </h2>
 
-Running the chi-square test of independence suggested indeed that the two might be dependent. This might have been influenced by an inflated data set that arose from the merging process of two data frames. Nevertheless, I decided to train several classifier models to test my hypothesis, namely: Decision Tree, Random Forest and Gradient Boosting Classifier.
+Running the chi-square test of independence suggested indeed that the 'rank' column might be dependent on the 'Foreign-born' column. This might have been influenced by an inflated data set that arose from the merging process of two data frames. Nevertheless, I decided to train several classifier models to test my hypothesis, namely: Decision Tree, Random Forest and Gradient Boosting Classifier.
+
 All three classifiers performed poorly with a weighted average F1 score of around 6% with the tuned Random Forest pulling in a value of 4%. This reinforced the need to engineer a better dataset with more features and less bloat.
 
 ![](images/images/f1scores.png)
@@ -29,8 +30,8 @@ The classifier scores were similarly modest. The majority of the classifiers had
 ![](images/images/conc1.png)
 
 <h2>Future Scope </h2>
-1. Feature engineering to improve matrix of features
-2. Time-series exploration on a bolstered datetime column
+<li> Feature engineering to improve matrix of features</li>
+<li> Time-series exploration on a bolstered datetime column</li>
 
 <h2> References </h2>
 <li>https://www.kaggle.com/cashncarry/fifaworldranking</li>
